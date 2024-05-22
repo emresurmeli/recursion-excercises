@@ -1,11 +1,23 @@
 ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png)
 
-# Recursion Exercises
+## Recursion Exercises
 
-Complete the functions written in the `recursion.js` file. 
+### Instructions
 
-You can automatically test your progress by running `npm install` inside this folder to install the automated testing libraries, then run `npm test` to see if your functions pass the test cases. You will have to add the necessary parameters to these functions so you can reference their usage inside the test file to see how the tests expect the function to be called.
+1. **Complete the Functions**
+   - Open the `recursion.js` file.
+   - Implement the required functions by adding the necessary parameters and logic.
 
-#### Optional Challenge
+2. **Test Your Progress**
+   - Navigate to the project directory in your terminal.
+   - Run `npm install` to install the automated testing libraries.
+   - Execute `npm test` to run the test cases and check if your functions pass.
 
-The floodIt challenge asks you to write a recursive function in order to complete a jQuery-based floodIt game. You only need to fill in one function in `app.js` in order to complete the game functionality. 
+
+### Optional Challenge
+
+The FloodIt challenge is an optional exercise where you will write a recursive function to complete a jQuery-based FloodIt game. Follow these steps:
+
+1. **Open `app.js`**: Locate the file in your project directory.
+2. **Implement the Function**: Fill in the required function to complete the game functionality.
+3. **Test the Game**: Run the game in your browser to see your function in action.
