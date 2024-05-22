@@ -10,9 +10,9 @@
 
    Navigate to the project directory and install the necessary dependencies by running:
 
-   \```bash
+   ```bash
    npm install
-   \```
+   ```
 
 3. **Complete the Exercises**
 
@@ -23,9 +23,9 @@
 
    To verify your solutions, run the test file by executing:
 
-   \```bash
+   ```bash
    npm test
-   \```
+   ```
 
 ### Optional Challenge
 
