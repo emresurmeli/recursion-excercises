@@ -4,11 +4,11 @@
 
 ### Instructions
 
-1. **Fork and Clone This Repository**
+1. **Fork and clone this repository.**
 
 2. **Install Dependencies**
 
-   Navigate to the project directory and install the necessary dependencies by running:
+   Navigate into the project directory and install the necessary dependencies by running:
 
    ```bash
    npm install
