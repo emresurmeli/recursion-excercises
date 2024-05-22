@@ -4,15 +4,28 @@
 
 ### Instructions
 
-1. **Complete the Functions**
+1. **Fork and Clone This Repository**
+
+2. **Install Dependencies**
+
+   Navigate to the project directory and install the necessary dependencies by running:
+
+   \```bash
+   npm install
+   \```
+
+3. **Complete the Exercises**
+
    - Open the `recursion.js` file.
    - Implement the required functions by adding the necessary parameters and logic.
 
-2. **Test Your Progress**
-   - Navigate to the project directory in your terminal.
-   - Run `npm install` to install the automated testing libraries.
-   - Execute `npm test` to run the test cases and check if your functions pass.
+4. **Check Your Work**
 
+   To verify your solutions, run the test file by executing:
+
+   \```bash
+   npm test
+   \```
 
 ### Optional Challenge
 
