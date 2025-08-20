@@ -20,12 +20,15 @@ function sumOfArray(arr) {
   let index = 0;
 
   function helperSum() {
+    // Base case
     if (arr.length === 0) {
       return sum;
     }
 
+    // Action
     sum = arr[index] + sum
     arr.shift();
+    // Recursion
     return helperSum();
   }
 
