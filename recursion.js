@@ -14,8 +14,22 @@ function lengthOfString(str, len = 0) {
   return lengthOfString(restOfString, ++len);
 }
 
-function sumOfArray() {
+function sumOfArray(arr) {
   // This function returns the sum of all of the numbers in a given array.
+  let sum = 0;
+  let index = 0;
+
+  function helperSum() {
+    if (arr.length === 0) {
+      return sum;
+    }
+
+    sum = arr[index] + sum
+    arr.shift();
+    return helperSum();
+  }
+
+  return helperSum()
 }
 
 function findMax() {
